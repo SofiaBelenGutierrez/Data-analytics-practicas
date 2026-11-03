@@ -1,10 +1,12 @@
 -- CREAR BASE DE DATOS -- 
 
 CREATE DATABASE Ventas_Tech_DB;
+GO
 
 -- UTILIZAR BASE DE DATOS --
 
 USE Ventas_Tech_DB;
+GO
 
 -- SECCIÓN 1: DROP TABLES -- eliminación de tablas si ya existen
 
